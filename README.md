@@ -1,6 +1,6 @@
-# HelpSync - Real-time Help Connector
+# Vior - Real-time Help Connector
 
-HelpSync is a premium, real-time web application designed to connect people in need (Clients) with people willing to help (Volunteers). It features a secure authentication system, role-based dashboards, and a real-time messaging system powered by WebSockets.
+Vior is a premium, real-time web application designed to connect people in need (Clients) with people willing to help (Volunteers). It features a secure authentication system, role-based dashboards, and a real-time messaging system powered by WebSockets.
 
 ## 🚀 Features
 
